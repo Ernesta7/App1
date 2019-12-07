@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="App1.CalendarCard" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CalendarCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.CalendarItem" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAggEIEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CalendarItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.CalendarItemsAdapter" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>CalendarItemsAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.CalendarItemsList" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CalendarItemsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.CalendarViewHolder" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CalendarViewHolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.g" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAEAAAAAAAhQAA=</HashCode>
+      <FileName>g.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.LifeNoteActivity" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeNoteActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.LifeNoteCard" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeNoteCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.LifeNoteItem" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeNoteItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.LifeNoteItemsAdapter" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeNoteItemsAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.LifeNoteItemsList" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeNoteItemsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.LifeNoteViewHolder" Collapsed="true">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeNoteViewHolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.MainActivity" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAABAAAADCAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.TodoActivity" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAAAAAAAAAAAAAAAAAAAAAACAEACAAAAAAAAAAQAA=</HashCode>
+      <FileName>TodoActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.ToDoCard" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToDoCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.ToDoItem" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToDoItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.ToDoItemAdapter" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>ToDoItemAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.ToDoItemList" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>ToDoItemList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="App1.ToDoViewHolder" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ToDoViewHolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

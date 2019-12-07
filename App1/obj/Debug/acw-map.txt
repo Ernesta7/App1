@@ -1,0 +1,28 @@
+App1.CalendarCard, App1;md5579855c995bdb073d8182511e793544c.CalendarCard
+App1.CalendarCard, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.CalendarCard
+App1.CalendarCard;md5579855c995bdb073d8182511e793544c.CalendarCard
+app1.CalendarCard;md5579855c995bdb073d8182511e793544c.CalendarCard
+App1.CalendarItemsAdapter, App1;md5579855c995bdb073d8182511e793544c.CalendarItemsAdapter
+App1.CalendarItemsAdapter, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.CalendarItemsAdapter
+App1.CalendarItemsAdapter;md5579855c995bdb073d8182511e793544c.CalendarItemsAdapter
+app1.CalendarItemsAdapter;md5579855c995bdb073d8182511e793544c.CalendarItemsAdapter
+App1.MainActivity, App1;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+app1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.CalendarViewHolder, App1;md5579855c995bdb073d8182511e793544c.CalendarViewHolder
+App1.CalendarViewHolder, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.CalendarViewHolder
+App1.CalendarViewHolder;md5579855c995bdb073d8182511e793544c.CalendarViewHolder
+app1.CalendarViewHolder;md5579855c995bdb073d8182511e793544c.CalendarViewHolder
+App1.ToDoCard, App1;md5579855c995bdb073d8182511e793544c.ToDoCard
+App1.ToDoCard, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.ToDoCard
+App1.ToDoCard;md5579855c995bdb073d8182511e793544c.ToDoCard
+app1.ToDoCard;md5579855c995bdb073d8182511e793544c.ToDoCard
+App1.ToDoItemAdapter, App1;md5579855c995bdb073d8182511e793544c.ToDoItemAdapter
+App1.ToDoItemAdapter, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.ToDoItemAdapter
+App1.ToDoItemAdapter;md5579855c995bdb073d8182511e793544c.ToDoItemAdapter
+app1.ToDoItemAdapter;md5579855c995bdb073d8182511e793544c.ToDoItemAdapter
+App1.ToDoViewHolder, App1;md5579855c995bdb073d8182511e793544c.ToDoViewHolder
+App1.ToDoViewHolder, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.ToDoViewHolder
+App1.ToDoViewHolder;md5579855c995bdb073d8182511e793544c.ToDoViewHolder
+app1.ToDoViewHolder;md5579855c995bdb073d8182511e793544c.ToDoViewHolder

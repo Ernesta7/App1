@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">App1</string>
+  
+ 
+    <string name="planet_prompt">Choose a date</string>
+    <string-array name="planets_array">
+      <item>Today</item>
+      <item>Tommorow</item>
+      <item>Friday</item>
+      <item>Saturday</item>
+      <item>Sunday</item>
+      
+    </string-array>
+
+
+  
+  
+</resources>

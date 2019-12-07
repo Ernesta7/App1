@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\App1.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\Java.Interop.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\Mono.Android.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\mscorlib.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.Core.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.Runtime.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.Xml.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.Net.Http.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.Drawing.Common.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.Runtime.Serialization.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\Mono.Security.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.Numerics.dll
+C:\Users\Asus\source\repos\App1\App1\obj\Debug\80\android\assets\System.ComponentModel.Composition.dll
